@@ -14,3 +14,4 @@ class total:
        return data
 s=total()
 s.scrape(844)
+s.scrape(34)
